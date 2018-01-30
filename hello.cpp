@@ -1,3 +1,5 @@
+//Author: Zakary Kuns
+
 #include <iostream>
 #include <string>
 
